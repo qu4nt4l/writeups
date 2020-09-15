@@ -1,6 +1,6 @@
 # The Cod Caper - TryHackMe
 
-# NOT FINISHED
+# NOT FINISHED - next steps coming soon
 
 [Link to CTF](https://tryhackme.com/room/thecodcaper)
 
